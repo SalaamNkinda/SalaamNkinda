@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 📫 How to Reach Me
 - **Email**: [snkinda05@gmail.com](mailto:snkinda05@gmail.com)
-- **LinkedIn**: [SalaamNkinda](https://linkedin.com/in/SalaamNkinda)
+- **LinkedIn**: [SalaamNkinda](https://www.linkedin.com/in/salaam-nkinda)
 
 ## 🛠️ Technologies & Tools
 Here are some of the tools and technologies I work with:

@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🛠️ Technologies & Tools
 Here are some of the tools and technologies I work with:
-- 💻 Programming Languages: Python, HTML, CSS, MySQL
+- 💻 Programming Languages: Python, HTML, CSS, MySQL, Scala
 
 ## 🌱 What I'm Learning
 - Currently exploring scientific computing and data analysis with Python.
